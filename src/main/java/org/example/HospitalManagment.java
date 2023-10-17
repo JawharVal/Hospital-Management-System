@@ -20,7 +20,7 @@ class HospitalManagementApp {
 
     // Injected constructor:
     // Dependency injection предоставит экземпляр класса Hospital и назначит его полю Hospital объекта HospitalManagementApp.
-    //when an instance of HospitalManagementApp is created, the dependency injection framework should inject an instance of the Hospital class into the constructor parameter.
+
     @Inject
     public HospitalManagementApp(Hospital hospital) {
         this.hospital = hospital;

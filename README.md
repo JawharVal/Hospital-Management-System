@@ -12,7 +12,7 @@ The Hospital Management System is a console Java-based application for efficient
 
 ## Getting Started
 
-1. Clone this repository:
+1. Clone this repository.
 
 2. Build and run the project using your preferred Java development environment.
 

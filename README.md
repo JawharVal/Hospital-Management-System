@@ -23,7 +23,6 @@ The Hospital Management System is a console Java-based application for efficient
 - [CDI API](https://jakarta.ee/specifications/cdi/2.0/)
 - [Lombok](https://projectlombok.org/)
 - [Weld SE](http://weld.cdi-spec.org/)
-- [Jandex](https://developer.jboss.org/en/jandex)
 
 ## Contributors
 

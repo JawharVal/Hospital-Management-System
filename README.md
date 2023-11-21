@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Hospital Management System is a console Java-based application for efficient hospital department and patient management. It makes use of CDI (Contexts and Dependency Injection) for easy data management.
+The Hospital Management System is a console Java-based application for efficient hospital department and patient management.
 
 ## Features
 
-- **Add Departments:** Easily add and manage hospital departments.
+- **Manage Departments:** Add, remove, and edit and manage hospital departments.
 - **Manage Patients:** Add, remove, and edit patient information within departments.
 - **Information Display:** View detailed information about hospital departments and patients.
 
@@ -20,9 +20,7 @@ The Hospital Management System is a console Java-based application for efficient
 
 ## Dependencies
 
-- [CDI API](https://jakarta.ee/specifications/cdi/2.0/)
 - [Lombok](https://projectlombok.org/)
-- [Weld SE](http://weld.cdi-spec.org/)
 
 ## Contributors
 

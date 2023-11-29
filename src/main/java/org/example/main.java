@@ -10,6 +10,7 @@ public class main {
         HospitalApp hospitalApp = BeanFactory.getBean(HospitalApp.class);
         // Start the application
         hospitalApp.start();
+        System.out.printf("%hello world");
 
     }
 }

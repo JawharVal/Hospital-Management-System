@@ -11,6 +11,7 @@ public class main {
         // Start the application
         hospitalApp.start();
         System.out.printf("%hello world");
+        System.out.printf("45");
 
     }
 }
